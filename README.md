@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is John Drex F. Cantor and I'm a student from Bicol University Polangui</h2>
+<h2 align="left">Hi! My name is Drxiee and I'm a student from Bicol University Polangui</h2>
 
 ###
 
