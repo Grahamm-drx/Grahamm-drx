@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tnNWNlZDFsODY3cHA0emIzanF6b2VubWViczRrM3R1ejlmbHNhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb285a3cwaWl5cTdyY2I5M21vMHJ5NWF4czZuM2lyZmEzeHQxdGN4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W6dHvprT7oks6BpX5R/giphy.gif"  />
 
 ###
 
@@ -33,22 +33,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.facebook.com/Drexxcantor" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="https://www.instagram.com/drxie.grahamm/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="https://discord.com/users/1060968709558108261" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" href="https://www.facebook.com/Drexxcantor" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" href="https://www.instagram.com/drxie.grahamm/" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" href="https://discord.com/users/1060968709558108261" />
 </div>
 
 ###
