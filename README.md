@@ -2,11 +2,11 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV1OWJkMmtlcWpia3NmaWNoZ3B1Y3IyNjduaW15aXdyMHYzYnVxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W6dHvprT7oks6BpX5R/giphy.gif"  />
+<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV1OWJkMmtlcWpia3NmaWNoZ3B1Y3IyNjduaW15aXdyMHYzYnVxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W6dHvprT7oks6BpX5R/giphy.gif"  />
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV1OWJkMmtlcWpia3NmaWNoZ3B1Y3IyNjduaW15aXdyMHYzYnVxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W6dHvprT7oks6BpX5R/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV1OWJkMmtlcWpia3NmaWNoZ3B1Y3IyNjduaW15aXdyMHYzYnVxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W6dHvprT7oks6BpX5R/giphy.gif"  />
 
 ###
 
