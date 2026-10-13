@@ -66,11 +66,11 @@
 <div data-importer="stats" align="center">
   <img src="https://github-readme-stats-seven-psi-93.vercel.app/api?username=graymm-drxiee&show_icons=true&include_all_commits=true&count_private=true&theme=aura" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=graymm-drxiee&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://trophy.ryglcloud.net/?username=Grahamm-drx&theme=tokyonight" alt="trophy" />
+  <img src="https://trophy.ryglcloud.net/?username=graymm-drxiee&theme=tokyonight" alt="trophy" />
 </div>
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Grahamm-drx/Grahamm-drx/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/graymm-drxiee/graymm-drxiee/snake-output/snake.svg" alt="Snake animation" />
 
 ###
